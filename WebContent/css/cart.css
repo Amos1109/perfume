@@ -1,0 +1,484 @@
+.fnb_navigation .fnb_main-menu {
+    height: 20px;
+}
+.fnb_breadcrumb {
+    pointer-events: auto;
+    padding: 20px 15px;
+}
+
+.fnb_breadcrumb a{
+   cursor: pointer;
+}
+
+.fnb_col-wd4{
+    width: 28%;
+}
+.fnb_bag_summary {
+    margin-top: 45px;
+}
+.fnb_bill {
+    border-top: 5px solid #000;
+}
+
+.fnb_bag_summary>.fnb_bill>header.fnb_section-header {
+    margin-top: 19px !important;
+    margin-bottom: 15px;
+}
+
+.module-checkoutTable .module-checkoutTable-body .module-checkoutTable-body-UHeader {
+    height: 40px;
+    line-height: 40px;
+    border-bottom: 1px solid #eee
+}
+
+.module-checkoutTable .module-checkoutTable-body .module-checkoutTable-body-UHeader .module-checkoutTable-body-LHeader {
+    display: inline-block;
+    color: #333
+}
+
+
+.module-checkoutTable {
+    position: relative
+}
+
+.module-checkoutTable .module-checkoutTable-header {
+    height: 60px;
+    margin-top: 30px;
+    line-height: 60px;
+    font-size: 18px;
+    color: #333
+}
+
+.module-checkoutTable .module-checkoutTable-header-method,
+.module-checkoutTable .module-checkoutTable-header-payFor {
+    font-size: 12px;
+    display: inline-block;
+    margin-left: 12px;
+    line-height: 12px;
+    color: #858585
+}
+
+.module-checkoutTable .module-checkoutTable-header-method span.priceRed,
+.module-checkoutTable .module-checkoutTable-header-payFor span.priceRed {
+    color: #d1152a
+}
+
+.module-checkoutTable .module-checkoutTable-body {
+    background-color: #fff
+}
+
+
+
+.module-checkoutTable .module-checkoutTable-body .module-checkoutTable-body-UBody.module-checkoutTable-bottom {
+    border-bottom: 1px solid #eee
+}
+
+.module-checkoutTable .module-checkoutTable-body .module-checkoutTable-body-UBody .module-checkoutTable-body-LBody {
+    display: inline-block;
+    height: 150px
+}
+
+.module-checkoutTable .module-checkoutTable-body .module-checkoutTable-Table-checkAll {
+    width: 21%;
+}
+
+.module-checkoutTable .module-checkoutTable-body .module-checkoutTable-Table-checkAll input {
+    vertical-align: sub;
+    margin-left: 20px;
+    margin-right: 20px
+}
+
+.module-checkoutTable .module-checkoutTable-body .module-checkoutTable-Table-checkAll.module-checkoutTable-body-LBody input {
+    margin-top: 68px
+}
+
+.module-checkoutTable .module-checkoutTable-body .module-checkoutTable-Table-checkAll.module-checkoutTable-body-LBody .module-checkoutTable-Table-productImage {
+    width: 110px;
+    height: 110px;
+    display: inline-block
+}
+
+.module-checkoutTable .module-checkoutTable-body .module-checkoutTable-Table-checkAll.module-checkoutTable-body-LBody .module-checkoutTable-Table-productImage>img {
+    width: 100%
+}
+
+.module-checkoutTable .module-checkoutTable-body .module-checkoutTable-Table-productInfo {
+    width: 30%;
+}
+
+.module-checkoutTable .module-checkoutTable-body .module-checkoutTable-Table-productInfo .module-checkoutTable-Table-productInfo-content {
+    margin-top: 30px;
+    line-height: 18px
+}
+
+.module-checkoutTable .module-checkoutTable-body .module-checkoutTable-Table-productInfo .module-checkoutTable-Table-productInfo-content .module-checkoutTable-Table-productBrand {
+    font-size: 12px;
+    font-weight: 700
+}
+
+.module-checkoutTable .module-checkoutTable-body .module-checkoutTable-Table-productInfo .module-checkoutTable-Table-productInfo-content .module-checkoutTable-Table-productContent {
+    font-size: 14px
+}
+
+.module-checkoutTable .module-checkoutTable-body .module-checkoutTable-Table-productPrice {
+    width: 12%;
+}
+
+.module-checkoutTable .module-checkoutTable-body .module-checkoutTable-Table-productPrice .module-checkoutTable-Table-productPrice-content {
+    margin-top: 30px;
+    line-height: 18px
+}
+
+.module-checkoutTable .module-checkoutTable-body .module-checkoutTable-Table-productPrice .module-checkoutTable-Table-productPrice-content .module-checkoutTable-Table-productOfferPrice {
+    display: block
+}
+
+.module-checkoutTable .module-checkoutTable-body .module-checkoutTable-Table-productPrice .module-checkoutTable-Table-productPrice-content .module-checkoutTable-Table-productDisplayPrice {
+    display: block;
+    color: #aaa;
+    text-decoration: line-through
+}
+
+.module-checkoutTable .module-checkoutTable-body .module-checkoutTable-Table-productNumber {
+    width: 15%;
+}
+
+.module-checkoutTable .module-checkoutTable-body .module-checkoutTable-Table-productNumber.module-checkoutTable-body-LHeader {
+    text-indent: 24px
+}
+
+.module-checkoutTable .module-checkoutTable-body .module-checkoutTable-Table-productNumber .module-checkoutTable-Table-productNumber-content {
+    margin-top: 30px;
+    border-top: 1px solid #eee;
+    border-left: 1px solid #eee;
+    display: inline-block
+}
+
+.module-checkoutTable .module-checkoutTable-body .module-checkoutTable-Table-productNumber .module-checkoutTable-Table-productNumber-content .module-checkoutTable-Table-productNumber-content-add {
+    width: 20px;
+    height: 20px;
+    line-height: 20px;
+    border-bottom: 1px solid #eee;
+    border-right: 1px solid #eee;
+    display: inline-block;
+    text-align: center
+}
+
+.module-checkoutTable .module-checkoutTable-body .module-checkoutTable-Table-productNumber .module-checkoutTable-Table-productNumber-content .module-checkoutTable-Table-productNumber-content-input {
+    width: 36px;
+    line-height: 18px;
+    border-bottom: 1px solid #eee;
+    border-right: 1px solid #eee;
+    text-align: center
+}
+
+.module-checkoutTable .module-checkoutTable-body .module-checkoutTable-Table-productNumber .module-checkoutTable-Table-productNumber-content .module-checkoutTable-Table-productNumber-content-minus {
+    width: 20px;
+    height: 20px;
+    line-height: 20px;
+    border-bottom: 1px solid #eee;
+    border-right: 1px solid #eee;
+    display: inline-block;
+    text-align: center
+}
+
+.module-checkoutTable .module-checkoutTable-body .module-checkoutTable-Table-productSubtotal {
+    width: 12%;
+}
+
+.module-checkoutTable .module-checkoutTable-body .module-checkoutTable-Table-productSubtotal .module-checkoutTable-Table-productSubtotal-content {
+    margin-top: 30px;
+    color: #d1152a
+}
+
+.module-checkoutTable .module-checkoutTable-body .module-checkoutTable-Table-control {
+    max-width: 6%;
+    float: right
+}
+
+.module-checkoutTable .module-checkoutTable-body .module-checkoutTable-Table-control.module-checkoutTable-body-LHeader {
+    text-indent: 5px
+}
+
+.module-checkoutTable .module-checkoutTable-body .module-checkoutTable-Table-control .module-checkoutTable-Table-control-content {
+    margin-top: 30px
+}
+
+.module-checkoutTable .module-checkoutTable-body .module-checkoutTable-Table-control .module-checkoutTable-Table-control-content .module-checkoutTable-Table-control-contentInfo {
+    display: block
+}
+
+.module-checkoutTable .module-checkoutTable-body .module-checkoutTable-Table-control .module-checkoutTable-Table-control-content .module-checkoutTable-Table-control-contentIcon {
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    width: 19px;
+    height: 19px;
+    margin-top: 10px
+}
+
+.module-checkoutTable .module-checkoutTable-control {
+    position: absolute;
+    right: 0;
+    top: 25px
+}
+
+.module-checkoutTable .module-checkoutTable-control .module-checkoutTable-add,
+.module-checkoutTable .module-checkoutTable-control .module-checkoutTable-show {
+    margin-left: 20px;
+    font-size: 12px
+}
+
+.module-checkoutTable .module-checkoutTable-control .module-checkoutTable-add em,
+.module-checkoutTable .module-checkoutTable-control .module-checkoutTable-show em {
+    display: inline-block;
+    width: 9px;
+    height: 9px;
+    margin-right: 5px
+}
+
+.module-checkoutTable .module-checkoutTable-control .module-checkoutTable-add {
+    cursor: pointer;
+    color: #666
+}
+
+.module-checkoutTable .module-checkoutTable-control .module-checkoutTable-add em {
+    background-position: -1px -21px
+}
+
+.module-checkoutTable .module-checkoutTable-control .module-checkoutTable-add:hover {
+    color: #e00
+}
+
+.module-checkoutTable .module-checkoutTable-control .module-checkoutTable-add:hover em {
+    background-position: -1px -31px
+}
+
+.module-checkoutTable .module-checkoutTable-control .module-checkoutTable-show {
+    cursor: pointer;
+    color: #7f7f7f
+}
+
+.module-checkoutTable .module-checkoutTable-control .module-checkoutTable-show em {
+    background-position: -11px -21px
+}
+
+.module-checkoutTable .module-checkoutTable-control .module-checkoutTable-show:hover {
+    color: #e00
+}
+
+.module-checkoutTable .module-checkoutTable-control .module-checkoutTable-show:hover em {
+    background-position: -11px -31px
+}
+
+.module-checkoutTable .module-checkoutTable-body .module-checkoutTable-body-UHeader {
+    height: 47px;
+    line-height: 47px;
+    padding: 0 10px 0 44px;
+    box-sizing: border-box
+}
+
+.module-checkoutTable .module-checkoutTable-body .module-checkoutTable-body-UBody {
+    height: 150px
+}
+
+
+.module-checkoutTable-body .checkout-product-body {
+    border-bottom: 1px solid #eee
+}
+
+.module-checkoutTable-body .checkout-product-body .checkout-promotion {
+    margin-left: 55px
+}
+
+.checkout-product-body-item {
+    min-height: 150px;
+    position: relative;
+    padding: 0 10px 0 20px;
+    box-sizing: border-box
+}
+
+
+.checkout-product-body-item .checkout-product-body-item-content {
+    height: 170px;
+    margin-left: 35px;
+    padding-top: 30px;
+    box-sizing: border-box;
+    position: relative
+}
+
+.checkout-product-body-item .checkout-product-body-item-content ._checkbox {
+    position: absolute;
+    top: 50%;
+    margin-top: -7px;
+    left: -35px
+}
+
+.checkout-product-body-item .checkout-product-body-item-content .checkout-product-body-item-img {
+    width: 18%;
+    padding-left: 25px;
+    box-sizing: border-box;
+    margin-right: 20px;
+    display: inline-block;
+    position: relative
+}
+
+.checkout-product-body-item .checkout-product-body-item-content .checkout-product-body-item-img.noCursor {
+    cursor: default
+}
+
+.checkout-product-body-item .checkout-product-body-item-content .checkout-product-body-item-img .checkout-product-body-item-img-status {
+    width: 100%;
+    height: 20px;
+    background: rgba(0, 0, 0, .5);
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    color: #fff;
+    text-align: center;
+    line-height: 20px;
+    display: none
+}
+
+.checkout-product-body-item .checkout-product-body-item-content .checkout-product-body-item-img img {
+    width: 100%;
+    height: 100%;
+    display: block
+}
+
+.checkout-product-body-item .checkout-product-body-item-content .checkout-product-body-item-info {
+    width: 30%;
+    vertical-align: top;
+    color: #000;
+    line-height: 12px;
+    display: inline-block
+}
+
+.checkout-product-body-item .checkout-product-body-item-content .checkout-product-body-item-info h5 {
+    font-weight: 700;
+    margin-bottom: 10px
+}
+
+.checkout-product-body-item .checkout-product-body-item-content .checkout-product-body-item-info h5.hasProduct:hover {
+    cursor: pointer;
+    color: #d1152a
+}
+
+.checkout-product-body-item .checkout-product-body-item-content .checkout-product-body-item-info .checkout-product-body-item-productNameCN {
+    margin-bottom: 10px;
+    display: inline-block
+}
+
+.checkout-product-body-item .checkout-product-body-item-content .checkout-product-body-item-info .checkout-product-body-item-productNameCN.noCursor {
+    cursor: default
+}
+
+.checkout-product-body-item .checkout-product-body-item-content .checkout-product-body-item-info .checkout-product-body-item-productNameCN.noCursor:hover {
+    color: #000
+}
+
+.checkout-product-body-item .checkout-product-body-item-content .checkout-product-body-item-info .checkout-product-body-item-productNameCN.hasCursor:hover {
+    cursor: pointer;
+    color: #d1152a
+}
+
+.checkout-product-body-item .checkout-product-body-item-content .checkout-product-body-item-info .checkout-product-body-item-attr {
+    position: relative
+}
+
+.checkout-product-body-item .checkout-product-body-item-content .checkout-product-body-item-info .checkout-product-body-item-attr .checkout-product-body-item-attr-html {
+    display: inline-block;
+    padding-right: 12px;
+    padding-bottom: 3px;
+    position: relative;
+    color: #666;
+    margin: 0 0 10px;
+    height: 16px;
+    box-sizing: border-box
+}
+
+.checkout-product-body-item .checkout-product-body-item-content .checkout-product-body-item-info .checkout-product-body-item-attr .checkout-product-body-item-attr-html.hasLine {
+    cursor: pointer
+}
+
+.checkout-product-body-item .checkout-product-body-item-content .checkout-product-body-item-info .checkout-product-body-item-attr .checkout-product-body-item-attr-html.hasLine:hover {
+    color: #e00
+}
+
+.checkout-product-body-item .checkout-product-body-item-content .checkout-product-body-item-info .checkout-product-body-item-attr .checkout-product-body-item-attr-html.default {
+    border-bottom: 1px solid #fff
+}
+
+.checkout-product-body-item .checkout-product-body-item-content .checkout-product-body-item-info .checkout-product-body-item-attr .checkout-product-body-item-attr-html.hover {
+    border-bottom: 1px solid #858585
+}
+
+.checkout-product-body-item .checkout-product-body-item-content .checkout-product-body-item-info .checkout-product-body-item-attr .checkout-product-body-item-attr-html.click {
+    color: #d1152a;
+    border-bottom: 1px solid #d1152a
+}
+
+.checkout-product-body-item .checkout-product-body-item-content .checkout-product-body-item-info .checkout-product-body-item-attr .checkout-product-body-item-attr-icon {
+    width: 16px;
+    height: 16px;
+    display: block;
+    position: absolute;
+    right: -15px;
+    top: 1px
+}
+
+.checkout-product-body-item .checkout-product-body-item-content .checkout-product-body-item-info .checkout-product-body-item-attr .checkout-product-body-item-attr-icon.hover {
+    background: url("https://ssl1.sephorastatic.cn/soa/pc/images/checkout-attr-default.png") no-repeat 0 0
+}
+
+.checkout-product-body-item .checkout-product-body-item-content .checkout-product-body-item-info .checkout-product-body-item-attr .checkout-product-body-item-attr-icon.click {
+    background: url("https://ssl1.sephorastatic.cn/soa/pc/images/checkout-attr-click.png") no-repeat 0 0
+}
+
+.checkout-product-body-item .checkout-product-body-item-content .checkout-product-body-item-unit {
+    width: 12%;
+    vertical-align: top;
+    display: inline-block
+}
+
+.checkout-product-body-item .checkout-product-body-item-content .checkout-product-body-item-amount {
+    width: 16%;
+    vertical-align: top;
+    display: inline-block
+}
+
+.checkout-product-body-item .checkout-product-body-item-content .checkout-product-body-item-amount .checkout-product-body-item-amount-warp {
+    text-align: center;
+    margin-left: -6px
+}
+
+.checkout-product-body-item .checkout-product-body-item-content .checkout-product-body-item-amount .checkout-product-body-item-amount-warp .checkout-product-body-item-amount-tips {
+    width: 60px;
+    position: absolute;
+    top: 58px;
+    right: 305px
+}
+
+.checkout-product-body-item .checkout-product-body-item-content .checkout-product-body-item-amount .checkout-product-body-item-amount-warp .checkout-product-body-item-amount-tips .checkout-product-body-item-amount-module-span {
+    color: #e00
+}
+
+.checkout-product-body-item .checkout-product-body-item-content .checkout-product-body-item-amount .checkout-product-body-item-amount-warp .mlnoe {
+    display: none
+}
+
+.checkout-product-body-item .checkout-product-body-item-content .checkout-product-body-item-subtotal {
+    width: 13%;
+    vertical-align: top;
+    display: inline-block
+}
+
+.checkout-product-body-item .checkout-product-body-item-content .checkout-product-body-item-subtotal .checkout-product-body-item-unit-sapPrice {
+    color: #000;
+    margin-bottom: 10px
+}
+
+.checkout-product-body-item .checkout-product-body-item-content .checkout-product-body-item-handle {
+    width: 4%;
+    vertical-align: top;
+    display: inline-block
+}

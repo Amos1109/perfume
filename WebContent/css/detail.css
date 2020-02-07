@@ -1,0 +1,245 @@
+.fnb_navigation .fnb_main-menu {
+    height: 20px;
+}
+
+#sort-product .fnb_sticky.fnb_sticky-product-detail .fnb_sticky-title {
+    font-weight: bolder;
+    font-size: 22px;
+}
+
+#sort-product .fnb_font-bold {
+    font-size: 20px;
+}
+
+.fnb_breadcrumb-product ol {
+    font-size: 14px;
+}
+
+.fnb_breadcrumb-product ol a {
+    text-decoration: none;
+}
+
+.fnb_main-container .fnb_products-container {
+    margin-top: 0;
+}
+
+.fnb_pdp-image img {
+    display: block;
+    margin: 0 auto;
+    width: 480px;
+}
+
+.fnb_desc {
+    font-weight: normal;
+    line-height: 2em;
+    border-bottom: 1px solid #ccc;
+    padding: 10px 0;
+}
+
+
+.information{
+    margin: 20px 0;
+}
+
+.information .item div {
+    display: inline-block;
+    margin-top: 20px;
+    vertical-align: middle;
+    font-weight: normal;
+}
+
+.information .detailfnb_desc{
+    font-weight: normal;
+    text-indent: 2em;
+}
+.information .item .price {
+    margin-left: 40px;
+    font-size: 24px;
+    font-weight: bolder;
+}
+
+.information .item .capacity ul {
+    margin-left: 40px;
+}
+
+.information .item .capacity ul li {
+    list-style: none;
+    display: inline-block;
+    margin-right: 10px;
+    width: 92px;
+    height: 24px;
+    text-align: center;
+    line-height: 24px;
+    cursor: pointer;
+    color: #333;
+    box-shadow: inset 0 0 0 1px #ddd;
+}
+
+.information .item .capacity ul li.now {
+    box-shadow: inset 0 0 0 2px #000;
+}
+
+.information .item .stock{
+    margin-left: 45px;
+}
+
+.information .item .Addcartnum{
+    float: left;
+    width: 78px;
+    height: 39px;
+    margin: 40px 25px 0 10px;
+    border: 1px solid #ddd
+}
+
+.information .item .Addcartnum>.numberBox {
+    float: left;
+    height: 39px;
+    line-height: 39px;
+    width: 56px;
+    border-right: 1px solid #ddd;
+    color: #000;
+    font-size: 16px;
+    text-align: center;
+    margin-top: 0;
+}
+
+
+.information .item  .Addcartnum>.arrow {
+    float: left;
+    width: 20px;
+    height: 39px;
+    margin-top:0;
+}
+.Addcartnum>.numberBox>input {
+    height: 39px;
+    line-height: 39px;
+    width: 48px
+}
+
+.Addcartnum>.numberBox>input.txt20 {
+    text-indent: 20px
+}
+
+.Addcartnum>.numberBox>input.txt17 {
+    text-indent: 17px
+}
+
+.Addcartnum>.arrow >.topArrow {
+    float: left;
+    width: 19px;
+    height: 19px;
+    border-bottom: 1px solid #ddd;
+    margin-top: 0;
+}
+
+.Addcartnum>.arrow >.topArrow.curPoint {
+    cursor: pointer
+}
+.Addcartnum>.arrow >.topArrow>.icon1 {
+    margin: 7px 0 0 4px;
+    float: left;
+    width: 10px;
+    height: 6px;
+    background-position: -50px -18px;
+    background-image: url(https://ssl1.sephorastatic.cn/soa/pc/images/PDP-ICON.png);
+    content: "";
+}
+
+.Addcartnum>.arrow>.topArrow>.icon2 {
+    margin: 7px 0 0 4px;
+    float: left;
+    width: 10px;
+    height: 6px;
+    background-position: -50px -42px;
+    background-image: url(https://ssl1.sephorastatic.cn/soa/pc/images/PDP-ICON.png);
+    content: "";
+}
+
+.Addcartnum>.arrow>.bottomArrow {
+    float: left;
+    width: 19px;
+    height: 19px;
+    margin-top: 0;
+}
+
+.Addcartnum>.arrow>.bottomArrow.curPoint {
+    cursor: pointer
+}
+
+.Addcartnum>.arrow>.bottomArrow>.icon1 {
+    margin: 7px 0 0 4px;
+    float: left;
+    width: 10px;
+    height: 6px;
+    background-position: -40px -18px;
+    background-image: url(https://ssl1.sephorastatic.cn/soa/pc/images/PDP-ICON.png);
+    content: "";
+}
+
+.Addcartnum>.arrow>.bottomArrow>.icon2 {
+    margin: 7px 0 0 4px;
+    float: left;
+    width: 10px;
+    height: 6px;
+    background-position: -40px -42px;
+    background-image: url(https://ssl1.sephorastatic.cn/soa/pc/images/PDP-ICON.png);
+    content: "";
+}
+
+
+.information .item .addToBagButton{
+    margin-left: 10px;
+}
+
+
+.information .item .fnb_addtobag-btn{
+    width: 200px;
+}
+
+
+.fnb_products-container .fnb_section-header{
+    margin: 60px 0 20px 0;
+    border-bottom: 1px solid #ccc;
+    text-align: center;
+}
+
+
+.fnb_products-container .introduction{
+    padding: 10px 150px 10px 240px;
+}
+
+.fnb_products-container .introduction ul{
+    float: left;
+    width: 100%;
+}
+
+.fnb_products-container .introduction ul.classif{
+    margin-top: 20px;
+}
+.fnb_products-container .introduction ul.classif>li{
+    width: 100%;
+}
+
+ul.classif>li>.title>.icon {
+    width: 8px;
+    height: 11px;
+    background-position: 0 -74px;
+    float: left;
+    margin-top: 3px;
+    background-image: url("https://ssl1.sephorastatic.cn/soa/pc/images/PDP-ICON.png");
+    content: ""
+}
+
+ul.classif>li>.title>p {
+    margin-left: 10px;
+    float: left;
+    font-size: 15px;
+    color: #000
+}
+ul.classif>li>.text {
+    float: left;
+    width: 100%;
+    font-size: 14px;
+    margin-top: 10px;
+    font-weight: normal;
+}

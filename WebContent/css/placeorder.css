@@ -1,0 +1,237 @@
+/* .fnb_breadcrumb {
+    pointer-events: auto;
+    padding: 20px 15px;
+    margin-top: 50px;
+} */
+
+.fnb_navigation .fnb_main-menu {
+    height: 20px;
+}
+
+.plo_Item {
+    margin: 0px 30px;
+    position: relative;
+    font-weight: normal;
+}
+
+.plo_Item .plo_Item-Title {
+    margin-top: 50px;
+    height: 60px;
+    line-height: 60px;
+    font-size: 18px;
+    font-weight: bolder;
+    color: #333;
+}
+
+
+.plo_Item .plo_Item-Title span {
+    font-size: 12px;
+    float: right;
+    margin-right: 20px;
+}
+
+.plo_Item .addresslittle {
+    overflow: hidden;
+    max-height: 171px;
+}
+
+.plo_Item .ShopAddresslit .ShopAddress-li {
+    border: 1px solid #eeeeee;
+    line-height: 15px;
+    padding: 19px 0;
+    position: relative;
+    cursor: pointer;
+}
+
+.plo_Item .ShopAddresslit .ShopAddress-li:hover {
+    background-color: #f5f5f5;
+}
+
+.ShopAddresslit .ShopAddress-li .ShopAddress-li-name {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    height: 14px;
+    padding-right: 20px;
+    vertical-align: middle;
+    text-indent: 30px;
+    width: auto;
+    display: inline-block;
+    color: #000;
+}
+
+.ShopAddresslit .ShopAddress-li .ShopAddress-li-address {
+    width: auto;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    height: 14px;
+    padding-right: 20px;
+    vertical-align: middle;
+    border-left: 1px solid #c8c8c8;
+    text-indent: 20px;
+    max-width: 500px;
+    display: inline-block;
+    color: #6f6f6f;
+}
+
+.ShopAddresslit .ShopAddress-li .ShopAddress-li-phone {
+    width: auto;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    height: 14px;
+    padding-right: 20px;
+    vertical-align: middle;
+    border-left: 1px solid #c8c8c8;
+    text-indent: 20px;
+    max-width: 300px;
+    display: inline-block;
+    color: #6f6f6f;
+}
+
+.ShopAddresslit .ShopAddress-li .ShopAddress-li-control>a {
+    float: right;
+    margin-right: 20px;
+    color: #333;
+    font-size: 13px;
+}
+
+.plo_Item .active {
+    border: 2px solid #c8c8c8 !important;
+}
+
+/* 支付方式 */
+.plo_Item .ShopPayFor {
+    padding: 20px;
+    border: 1px solid #eeeeee;
+}
+
+.plo_Item .ShopPayFor .ShopPayFor-list {
+    display: inline-block;
+    width: 180px;
+    margin-right: 10px;
+    padding: 6px 0;
+    line-height: 26px;
+    text-align: center;
+    cursor: pointer;
+    border: 1px solid #bdbdbd;
+    position: relative;
+}
+
+.plo_Item .ShopPayFor .ShopPayFor-Balance-icon {
+    width: 25px;
+    height: 25px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 7px;
+    background-image: url(../img/balance.png);
+}
+
+.plo_Item .ShopPayFor .ShopPayFor-Alipay-icon {
+    width: 25px;
+    height: 25px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 7px;
+    background-image: url(../img/Alipay.png);
+}
+
+.plo_Item .ShopPayFor .ShopPayFor-WeChart-icon {
+    width: 25px;
+    height: 25px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 7px;
+    background-image: url(../img/WeChat.png);
+}
+
+.plo_Item .ShopPayFor .ShopPayFor-list:hover {
+    background-color: #f5f5f5;
+}
+
+.plo_Item .Shopgoods {
+    border: 1px solid #eeeeee;
+}
+
+.plo_Item .ShopGoodhead {
+    height: 54px;
+    color: #474747;
+    line-height: 54px;
+    font-weight: bold;
+}
+
+.plo_Item .ShopGoods-list .goodleft {
+    width: 70%;
+    float: left;
+}
+
+.plo_Item .ShopGoods-list .goodleft .goodImg {
+    text-align: center;
+    width: 20%;
+    float: left;
+}
+
+.plo_Item .ShopGoods-list .goodleft .goodinform {
+    width: 80%;
+    float: left;
+}
+
+.plo_Item .ShopGoods-list .goodright {
+    width: 30%;
+    float: left;
+}
+
+.plo_Item .ShopGoods-list .goodright span {
+    width: 30%;
+    float: right;
+}
+
+.plo_Item .ShopGoodItem {
+    height: 150px;
+    padding-top: 30px;
+    box-sizing: border-box;
+    position: relative;
+    border-top: 1px solid #eeeeee;
+}
+
+.plo_Item .ShopGoods-list .goodleft .goodImg img {
+    width: 100px;
+    height: 100px;
+}
+
+.plo_Item .Shopbuy {
+    border: 1px solid #eeeeee;
+    height: 60px;
+    line-height: 60px;
+    padding-right: 30px;
+}
+
+.Shopbuy .Shopbuy-returntocart {
+    margin: 0 30px 0 20px;
+    display: inline-block;
+}
+
+.right{
+    float: right;
+}
+
+.Shopbuy .UserBalance , .Shopbuy .PayPrice{
+    display: inline-block;
+    height: 20px;
+    line-height: 20px;
+    padding: 0 20px;
+    border-left: 1px solid #333;
+}
+
+.Shopbuy .Shopbuybutton {
+   float: right;
+}
+
+.Shopbuy-address{
+    color: #6f6f6f;
+    font-size: 14px;
+    display: inline-block;
+    margin: 0 10px;
+    vertical-align: middle;
+}

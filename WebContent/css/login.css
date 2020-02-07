@@ -1,0 +1,52 @@
+.fnb_navigation .fnb_main-menu {
+    height: 20px;
+}
+
+.fnb_account-title {
+    margin-top: 10px;
+    margin-bottom: 40px;
+}
+
+.login {
+    width: 310px;
+    margin: 0 auto;
+    padding-bottom: 10px;
+}
+
+.login .loginTitle {
+    display: block;
+    position: relative;
+    padding: 30px 0 0;
+    margin-right: 3px;
+    border-top: 1px solid #e6e6e6;
+    font-size: 15px;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+.login .namepositon,
+.pwdpositon {
+    margin-bottom: 15px;
+}
+
+.login .namepositon .Title_name,
+.pwdpositon .Title_name {
+    display: inline-block;
+    max-width: 100%;
+    margin-bottom: 5px;
+}
+
+.fnb_account-password-link {
+    margin-top: -10px;
+    float: right !important;
+    display: block;
+    text-align: right;
+    color: #808080;
+    cursor: pointer;
+}
+
+.fnb_main-submit{
+    width: 100%;
+    position: relative;
+    margin: 30px 0 15px;
+}
