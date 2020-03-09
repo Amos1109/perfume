@@ -7,7 +7,23 @@ public class items {
     private String brand;//∆∑≈∆
     private double price;//º€∏Ò
     private String photo;//’’∆¨
-    private String desc;//√Ë ˆ
+    public items(int id, String name, String engname, String brand, double price, String photo, String desc,
+			int stock) {
+		super();
+		this.id = id;
+		this.name = name;
+		this.engname = engname;
+		this.brand = brand;
+		this.price = price;
+		this.photo = photo;
+		this.desc = desc;
+		this.stock = stock;
+	}
+    public items() {
+    	
+    }
+
+	private String desc;//√Ë ˆ
     private int stock; //ø‚¥Ê
 	public int getId() {
 		return id;

@@ -5,9 +5,9 @@ import java.sql.DriverManager;
 
 
 public class DBHelper {
-
+	
 	private static final String driver="com.mysql.jdbc.Driver";
-	private static final String url="jdbc:mysql://localhost:3306/perfume?useUnicode=true&characterEncoding=UTF8";
+	private static final String url="jdbc:mysql://121.43.102.125:3306/perfume?useUnicode=true&characterEncoding=UTF8";
 	//private static final String url="jdbc:mysql://106.14.209.83:3306/perfume";
 	private static final String username="root";
 	//private static final String username="perfume_reader";
